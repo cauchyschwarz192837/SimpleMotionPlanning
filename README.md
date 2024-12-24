@@ -1,4 +1,4 @@
-Project for CS 290: Computational Geometry at Duke University, fall 2024. This project implements motion planning for a `point' robot among polygonal obstacles, contained in a rectangular region. In other words, the workspace is a rectangle with polygonal holes.
+Project for CS 290: Computational Geometry at Duke University. This project implements motion planning for a `point' robot among polygonal obstacles, contained in a rectangular region. In other words, the workspace is a rectangle with polygonal holes.
 
 ## Figures
 
